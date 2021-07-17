@@ -1,0 +1,1 @@
+const mobileBreakpoing = 700;
